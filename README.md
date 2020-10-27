@@ -35,9 +35,10 @@ I'm a Software Engineer passionate about coding with more than 7 years of experi
 <img align="left" alt="Terminal" width="26px" src="https://code.makery.ch/library/html-css/part7/bootstrap-logo.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 
-<br />
-<br />
+<br/>
+<br/>
 
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GGGErnest's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GGGErnest&show_icons=true&hide_border=true" />
