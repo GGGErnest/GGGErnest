@@ -39,8 +39,7 @@ I'm a Software Engineer passionate about coding with more than 7 years of experi
 <br />
 
 <details>
-  <summary>GitHub Stats</summary>
-  <br/>
+  <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GGGErnest's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GGGErnest&show_icons=true&hide_border=true" />
 </details>
 
